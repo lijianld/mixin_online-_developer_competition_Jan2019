@@ -7,7 +7,7 @@
 | Description | Delivery  | IsVerified | GithubAddress | CodeIsVerified |
 |--|--|--|--|--|
 | ''TBD''| https://wohaokan.me | ✅ | [liusining/wohaokan.me-backend](https://github.com/liusining/wohaokan.me-backend)|✅  repo missing https://github.com/liusining/wohaokan.me-mixin-middleware|
-| ''TBD''| [testcardmall.applinzi](https://testcardmall.applinzi.com)| ✅ | [lijianld/superCardMall](https://github.com/lijianld/superCardMall)|? source code in zip package?|
+|superCardMall| [testcardmall.applinzi](https://testcardmall.applinzi.com)| ✅ | [lijianld/superCardMall](https://github.com/lijianld/superCardMall)|✅代码已重新提交|
 | ''TBD''| Mixin ID:7000100213| ✅ | [ewnk/grouphelper](https://github.com/ewnk/grouphelper) |✅|
 | ''TBD''| http://mixinkeys.ibisolutions.ru| ✅ |[if1242/MixinKeys](https://github.com/if1242/MixinKeys) | ✅|
 | ''TBD''| https://imin.xin/| ✅ | [an-lee/iminxin](https://github.com/an-lee/iminxin) |✅ |
@@ -37,7 +37,7 @@
 |--|--|--|--|--
 | ''TBD''| NO | 'TBD' |[sumanthwhy/smart-Energy-Monitoring](https://github.com/sumanthwhy/smart-Energy-Monitoring)| 'TBD' |
 | ''TBD''| https://wohaokan.me | ✅ | [liusining/wohaokan.me-backend](https://github.com/liusining/wohaokan.me-backend)|✅  repo missing https://github.com/liusining/wohaokan.me-mixin-middleware|
-| ''TBD''| [testcardmall.applinzi](https://testcardmall.applinzi.com)| ✅ | [lijianld/superCardMall](https://github.com/lijianld/superCardMall)|? source code in zip package?|
+|superCardMall| [testcardmall.applinzi](https://testcardmall.applinzi.com)| ✅ | [lijianld/superCardMall](https://github.com/lijianld/superCardMall)|✅代码已重新提交|
 | ''TBD''| 7000100213| ✅ | [ewnk/grouphelper](https://github.com/ewnk/grouphelper) |✅|
 | ''TBD''| ''TBD''| ''TBD'' | [nirdesh27/regionalTransport-system](https://github.com/nirdesh27/regionalTransport-system) |❌ use EOS to create Application instead of Mixin |
 | ''TBD''| https://mixin.space| ❌ | [kurisu-public/Mixin-Decentralization-BBS](https://github.com/kurisu-public/Mixin-Decentralization-BBS)|''TBD'' |
